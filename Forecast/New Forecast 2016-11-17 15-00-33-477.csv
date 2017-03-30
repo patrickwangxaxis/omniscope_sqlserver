@@ -1,0 +1,519 @@
+Market,Agency__c,Forecast_Month__c,Forecast_Year__c,Forecast__c,CurrencyIsoCode,Forecast_Type__c,Forecast_Quarter__c,Business_Unit__c,Forecast_Level__c
+Austria,a00i000000GIJl7AAH,Jan,2016,183951.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Feb,2016,506025.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Mar,2016,396962.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Apr,2016,423599.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,May,2016,433704.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Jun,2016,377146,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Jul,2016,327416.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Aug,2016,496321.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Sep,2016,698945.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Oct,2016,724051.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Nov,2016,678054.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Austria,a00i000000GIJl7AAH,Dec,2016,701852.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Jan,2016,221373.2,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Feb,2016,268437.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Mar,2016,437553.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Apr,2016,343026.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,May,2016,644782.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Jun,2016,429603.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Jul,2016,327332.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Aug,2016,445311.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Sep,2016,686024.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Oct,2016,635799,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Nov,2016,257787.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Netherlands,a00i000000GIJlDAAX,Dec,2016,247350.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Jan,2016,348628.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Feb,2016,233385.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Mar,2016,272368.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Apr,2016,549408.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,May,2016,571562.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Jun,2016,466705,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Jul,2016,446633.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Aug,2016,343289.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Sep,2016,521675.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Oct,2016,557845,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Nov,2016,503231.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Belgium,a00i000000GIJl6AAH,Dec,2016,603878.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Jan,2016,21984.54,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Feb,2016,33833.18,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Mar,2016,46546.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Apr,2016,72344.03,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,May,2016,74060.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Jun,2016,66016.72,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Jul,2016,66810.54,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Aug,2016,42094.68,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Sep,2016,70583.68,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Oct,2016,95868.61,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Nov,2016,153485.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Slovakia,a003100000fHjHwAAK,Dec,2016,76469.25,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Jan,2016,959372.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Feb,2016,861382.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Mar,2016,913017.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Apr,2016,872634.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,May,2016,1095446,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Jun,2016,835187.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Jul,2016,709055.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Aug,2016,775938.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Sep,2016,1043462,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Oct,2016,1084343,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Nov,2016,1495493,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Netherlands,a00i000000GIJlDAAX,Dec,2016,1485924,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Jan,2016,53505.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Feb,2016,89859.74,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Mar,2016,103990.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Apr,2016,166836.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,May,2016,186080.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Jun,2016,168124.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Jul,2016,72266.24,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Aug,2016,67475.33,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Sep,2016,166071.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Oct,2016,190267.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Nov,2016,288796.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Dec,2016,151240.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Jun,2016,1315.152,USD,Cartesis,Q3RF 2016,plista,Market
+Russia,a00i000000QyKQfAAN,Jul,2016,17003.03,USD,Cartesis,Q3RF 2016,plista,Market
+Russia,a00i000000QyKQfAAN,Aug,2016,11350.31,USD,Cartesis,Q3RF 2016,plista,Market
+Russia,a00i000000QyKQfAAN,Sep,2016,68147.47,USD,Cartesis,Q3RF 2016,plista,Market
+Russia,a00i000000QyKQfAAN,Oct,2016,136359.3,USD,Cartesis,Q3RF 2016,plista,Market
+Russia,a00i000000QyKQfAAN,Nov,2016,18616,USD,Cartesis,Q3RF 2016,plista,Market
+Russia,a00i000000QyKQfAAN,Dec,2016,23186.59,USD,Cartesis,Q3RF 2016,plista,Market
+Switzerland,a00i000000cw2wxAAA,Jan,2016,143657,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Feb,2016,205158,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Mar,2016,275283,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Apr,2016,251678,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,May,2016,360999,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Jun,2016,394701,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Jul,2016,175639,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Aug,2016,218284,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Sep,2016,424343,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Oct,2016,519791,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Nov,2016,327919,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Switzerland,a00i000000cw2wxAAA,Dec,2016,283605,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Jan,2016,11124.35,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Feb,2016,12086.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Mar,2016,56748.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Apr,2016,32588.75,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,May,2016,114721.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Jun,2016,252202.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Jul,2016,486762,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Aug,2016,466982.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Sep,2016,416723.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Oct,2016,401437.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Nov,2016,495814,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+UK,a00i0000003u6duAAA,Dec,2016,536298.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+South Africa,a003100000gAWnyAAG,Apr,2016,29817.24,USD,Cartesis,Q3RF 2016,Xaxis,Market
+South Africa,a003100000gAWnyAAG,May,2016,66571.06,USD,Cartesis,Q3RF 2016,Xaxis,Market
+South Africa,a003100000gAWnyAAG,Jun,2016,94544.81,USD,Cartesis,Q3RF 2016,Xaxis,Market
+South Africa,a003100000gAWnyAAG,Jul,2016,106918.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+South Africa,a003100000gAWnyAAG,Aug,2016,130079.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+South Africa,a003100000gAWnyAAG,Sep,2016,153475.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+South Africa,a003100000gAWnyAAG,Oct,2016,111544.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+South Africa,a003100000gAWnyAAG,Nov,2016,126162.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+South Africa,a003100000gAWnyAAG,Dec,2016,104534.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Jun,2016,596.0346,USD,Cartesis,Q3RF 2016,plista,Market
+Norway,a00i000000GIJlEAAX,Jul,2016,59.37692,USD,Cartesis,Q3RF 2016,plista,Market
+Norway,a00i000000GIJlEAAX,Aug,2016,89.30384,USD,Cartesis,Q3RF 2016,plista,Market
+Norway,a00i000000GIJlEAAX,Sep,2016,6650.812,USD,Cartesis,Q3RF 2016,plista,Market
+Norway,a00i000000GIJlEAAX,Oct,2016,4694.115,USD,Cartesis,Q3RF 2016,plista,Market
+Norway,a00i000000GIJlEAAX,Nov,2016,49480.77,USD,Cartesis,Q3RF 2016,plista,Market
+Norway,a00i000000GIJlEAAX,Dec,2016,32192.31,USD,Cartesis,Q3RF 2016,plista,Market
+Portugal,a00i000000GIJlGAAX,Jan,2016,5295.465,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Feb,2016,17098.71,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Mar,2016,22803.82,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Apr,2016,27777.11,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,May,2016,25010.36,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Jun,2016,68161.25,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Jul,2016,55459,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Aug,2016,27474.86,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Sep,2016,80851.32,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Oct,2016,60791,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Nov,2016,54875.53,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Portugal,a00i000000GIJlGAAX,Dec,2016,32734.89,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Jan,2016,191461.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Feb,2016,351163.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Mar,2016,462399.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Apr,2016,391373.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,May,2016,450525.2,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Jun,2016,332144,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Jul,2016,325162.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Aug,2016,393962.4,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Sep,2016,421613.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Oct,2016,498256.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Nov,2016,415245,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Austria,a00i000000GIJl7AAH,Dec,2016,174437,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Nov,2016,32585.23,USD,Cartesis,Q3RF 2016,plista,Market
+Turkey,a00i000000GIJlJAAX,Dec,2016,65170.46,USD,Cartesis,Q3RF 2016,plista,Market
+Slovakia,a003100000fHjHwAAK,Jan,2016,15519.93,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Feb,2016,27193.64,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Mar,2016,60497.61,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Apr,2016,103986.2,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,May,2016,80685.25,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Jun,2016,83546.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Jul,2016,46274.14,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Aug,2016,49853.53,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Sep,2016,79949,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Oct,2016,83694.47,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Nov,2016,75179.43,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Slovakia,a003100000fHjHwAAK,Dec,2016,34260.54,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Jan,2016,796619.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Feb,2016,877922.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Mar,2016,1090447,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Apr,2016,1476702,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,May,2016,1072579,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Jun,2016,1190941,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Jul,2016,1336388,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Aug,2016,1460204,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Sep,2016,1181857,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Oct,2016,1227768,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Nov,2016,983492.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Dec,2016,770457.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Nov,2016,118320.6,USD,Cartesis,Q3RF 2016,plista,Market
+Sweden,a00i000000GIJlIAAX,Dec,2016,236641.2,USD,Cartesis,Q3RF 2016,plista,Market
+Romania,a00i000000QyKQeAAN,Jan,2016,59919.06,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Feb,2016,71388.08,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Mar,2016,125740.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Apr,2016,92005.78,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,May,2016,123162.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Jun,2016,184922.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Jul,2016,148399.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Aug,2016,164031.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Sep,2016,194759.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Oct,2016,150640.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Nov,2016,184679.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Dec,2016,184679.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Jan,2016,1389271,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Feb,2016,2108411,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Mar,2016,2526054,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Apr,2016,2026438,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,May,2016,2772923,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Jun,2016,2737643,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Jul,2016,2426458,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Aug,2016,896011.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Sep,2016,2215902,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Oct,2016,3051353,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Nov,2016,2919136,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Italy,a00i000000GIJlCAAX,Dec,2016,2200271,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Jan,2016,142138.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Feb,2016,137238.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Mar,2016,229159.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Apr,2016,157932.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,May,2016,209475.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Jun,2016,274626.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Jul,2016,232504.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Aug,2016,130842.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Sep,2016,156597.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Oct,2016,321400.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Nov,2016,233097.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Portugal,a00i000000GIJlGAAX,Dec,2016,158679,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Jan,2016,23918.05,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Feb,2016,103182,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Mar,2016,-93000,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Apr,2016,-34100,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,May,2016,50559.45,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Jun,2016,-2932.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Jul,2016,-47626.85,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Aug,2016,50458.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Sep,2016,-2204.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Oct,2016,14337.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Nov,2016,109000.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Jan,2016,237022.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Feb,2016,322209,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Mar,2016,431114.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Apr,2016,502825.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,May,2016,509559.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Jun,2016,677490.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Jul,2016,481276.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Aug,2016,301188,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Sep,2016,450191,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Oct,2016,513078.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Nov,2016,664622.8,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Poland,a00i000000GIJlFAAX,Dec,2016,620863,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+EMEA-Market,a00i000000GIJlAAAX,Jan,2016,503545.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Feb,2016,632604.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Mar,2016,1018350,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Apr,2016,768784.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,May,2016,915544.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Jun,2016,684518.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Jul,2016,355210.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Aug,2016,228804.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Sep,2016,695889.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Oct,2016,1738668,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Nov,2016,1716062,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Dec,2016,1146276,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Jan,2016,29680.11,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Feb,2016,74850.92,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Mar,2016,76160.16,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Apr,2016,158230.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,May,2016,62300.34,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Jun,2016,133114.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Jul,2016,45267.27,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Aug,2016,71492.62,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Sep,2016,138269.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Oct,2016,148027.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Nov,2016,49960.59,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Russia,a00i000000QyKQfAAN,Dec,2016,57965.21,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Jan,2016,406180.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Feb,2016,472693.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Mar,2016,536440.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Apr,2016,523537,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,May,2016,604454.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Jun,2016,666704.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Jul,2016,503033.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Aug,2016,370138.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Sep,2016,510636.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Oct,2016,786954.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Nov,2016,662393.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Poland,a00i000000GIJlFAAX,Dec,2016,686504.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Romania,a00i000000QyKQeAAN,Jan,2016,317.1349,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Feb,2016,22372.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Mar,2016,15017.78,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Apr,2016,14723.03,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,May,2016,26430.94,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Jun,2016,23733.45,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Jul,2016,26806.63,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Aug,2016,33450.23,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Sep,2016,38050.53,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Oct,2016,41094.19,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Nov,2016,29240.14,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Romania,a00i000000QyKQeAAN,Dec,2016,29240.14,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Jan,2016,-49000,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Feb,2016,138630,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Mar,2016,510590,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Apr,2016,773357,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,May,2016,-575989,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Jun,2016,282902,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Jul,2016,434170,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Aug,2016,191205,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Sep,2016,646181,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Oct,2016,330128,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Nov,2016,381001,USD,Cartesis,Q3RF 2016,Xaxis,Market
+MENA,a00i000000a0hZ0AAI,Dec,2016,357000,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Hungary,a003100000eqU1mAAE,May,2016,58840.55,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Hungary,a003100000eqU1mAAE,Jun,2016,11768.99,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Hungary,a003100000eqU1mAAE,Jul,2016,19586.36,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Hungary,a003100000eqU1mAAE,Aug,2016,23109.09,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Hungary,a003100000eqU1mAAE,Sep,2016,64818.18,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Hungary,a003100000eqU1mAAE,Oct,2016,75386.36,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Hungary,a003100000eqU1mAAE,Nov,2016,78909.09,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Hungary,a003100000eqU1mAAE,Dec,2016,61436.36,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Jan,2016,321254.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Feb,2016,400452.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Mar,2016,587183.2,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Apr,2016,605470.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,May,2016,756953.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Jun,2016,713763.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Jul,2016,710099.3,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Aug,2016,264596.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Sep,2016,678003.2,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Oct,2016,1014154,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Nov,2016,775553.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Italy,a00i000000GIJlCAAX,Dec,2016,709601.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Jan,2016,1844900,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Feb,2016,2094704,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Mar,2016,2441656,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Apr,2016,2407253,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,May,2016,2246628,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Jun,2016,2905311,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Jul,2016,2600416,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Aug,2016,2144996,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Sep,2016,2280874,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Oct,2016,2677048,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Nov,2016,3919050,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Dec,2016,4724489,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Jan,2016,83777.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Feb,2016,166751.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Mar,2016,130710.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Apr,2016,181142.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,May,2016,211758.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Jun,2016,204645.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Jul,2016,71254.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Aug,2016,167523.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Sep,2016,204455.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Oct,2016,292034.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Nov,2016,308164.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Turkey,a00i000000GIJlJAAX,Dec,2016,244720.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Jan,2016,389884.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Feb,2016,728380.8,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Mar,2016,738992.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Apr,2016,738992.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,May,2016,787161.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Jun,2016,670735.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Jul,2016,402659.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Aug,2016,607360.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Sep,2016,1020282,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Oct,2016,1060892,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Nov,2016,986602.2,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Dec,2016,740994.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Jan,2016,666010.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Feb,2016,851159.2,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Mar,2016,841016.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Apr,2016,913172.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,May,2016,1176278,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Jun,2016,1087084,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Jul,2016,1090760,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Aug,2016,846177.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Sep,2016,831372.4,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Oct,2016,804433.4,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Nov,2016,819783.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Dec,2016,1059973,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Spain,a00i000000GIJlHAAX,Jan,2016,573050.5,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Feb,2016,909603.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Mar,2016,863785.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Apr,2016,1026162,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,May,2016,1534275,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Jun,2016,1524033,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Jul,2016,1166722,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Aug,2016,657046.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Sep,2016,807427.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Oct,2016,1225854,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Nov,2016,2626432,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Spain,a00i000000GIJlHAAX,Dec,2016,2522702,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Norway,a00i000000GIJlEAAX,Jan,2016,98127.04,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Norway,a00i000000GIJlEAAX,Feb,2016,-98127.04,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Norway,a00i000000GIJlEAAX,Jun,2016,103668.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Norway,a00i000000GIJlEAAX,Jul,2016,10296.41,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Norway,a00i000000GIJlEAAX,Aug,2016,15530.76,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Norway,a00i000000GIJlEAAX,Sep,2016,45989.57,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Norway,a00i000000GIJlEAAX,Oct,2016,7496.515,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Norway,a00i000000GIJlEAAX,Nov,2016,48884.62,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Norway,a00i000000GIJlEAAX,Dec,2016,37557.69,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Hungary,a003100000eqU1mAAE,Jan,2016,11768.11,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Hungary,a003100000eqU1mAAE,Feb,2016,11768.11,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Hungary,a003100000eqU1mAAE,Mar,2016,11768.11,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Hungary,a003100000eqU1mAAE,Apr,2016,11768.11,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Hungary,a003100000eqU1mAAE,May,2016,-47072.44,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Jan,2016,156882.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Feb,2016,168617.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Mar,2016,302250,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Apr,2016,312435.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,May,2016,237814.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Jun,2016,208142.9,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Jul,2016,202607.1,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Aug,2016,190118.6,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Sep,2016,184095.7,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Oct,2016,640918.3,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Nov,2016,243571.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Finland,a003100000g23KXAAY,Dec,2016,243571.4,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Czech Republic,a00i000000GIJl8AAH,Jan,2016,25806.49,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Feb,2016,28624.68,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Mar,2016,50525.97,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Apr,2016,35831.17,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,May,2016,86638.96,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Jun,2016,43641.56,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Jul,2016,46177.92,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Aug,2016,13607.79,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Sep,2016,53344.15,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Oct,2016,67918.18,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Nov,2016,125932.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Czech Republic,a00i000000GIJl8AAH,Dec,2016,84452.54,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Jan,2016,397000,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Feb,2016,245370,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Mar,2016,257350,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Apr,2016,15998,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,May,2016,1048484,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Jun,2016,274798,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Jul,2016,82340,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Aug,2016,292535,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Sep,2016,-65875,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Oct,2016,357689,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Nov,2016,397000,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+MENA,a00i000000a0hZ0AAI,Dec,2016,372000,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Jan,2016,48581.43,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Feb,2016,48902.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Mar,2016,54604.29,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Apr,2016,53718.57,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,May,2016,79315.71,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Jun,2016,98789.25,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Jul,2016,67736.11,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Aug,2016,69639.28,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Sep,2016,76647.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Oct,2016,96689,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Nov,2016,144641.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Belgium,a00i000000GIJl6AAH,Dec,2016,173569,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Jan,2016,18421.63,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Feb,2016,40437.23,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Mar,2016,15253.17,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Apr,2016,46151.84,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,May,2016,13439.97,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Jun,2016,61198.62,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Jul,2016,54378.76,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Aug,2016,71157.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Sep,2016,46909.58,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Oct,2016,93518.15,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Nov,2016,-22743.37,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Russia,a00i000000QyKQfAAN,Dec,2016,-21765.84,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Germany,a00i000000GIJlBAAX,Jan,2016,1830492,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Feb,2016,2783254,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Mar,2016,3535166,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Apr,2016,3290936,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,May,2016,3098925,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Jun,2016,2288597,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Jul,2016,2461781,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Aug,2016,2372592,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Sep,2016,3970813,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Oct,2016,3264343,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Nov,2016,4041072,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Germany,a00i000000GIJlBAAX,Dec,2016,4572197,USD,Cartesis,Q3RF 2016,Xaxis,Market
+EMEA-Market,a00i000000GIJlAAAX,Nov,2016,35000.55,USD,Cartesis,Q3RF 2016,plista,Market
+EMEA-Market,a00i000000GIJlAAAX,Dec,2016,35000.55,USD,Cartesis,Q3RF 2016,plista,Market
+UK,a00i0000003u6duAAA,Jan,2016,11427426,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Feb,2016,10237489,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Mar,2016,10983449,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Apr,2016,10126579,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,May,2016,11176532,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Jun,2016,10062023,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Jul,2016,10481735,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Aug,2016,7311090,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Sep,2016,11772551,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Oct,2016,10845000,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Nov,2016,12859332,USD,Cartesis,Q3RF 2016,Xaxis,Market
+UK,a00i0000003u6duAAA,Dec,2016,12759100,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Jan,2016,494082,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Feb,2016,468508,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Mar,2016,765846,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Apr,2016,635239,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,May,2016,659810,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Jun,2016,596835,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Jul,2016,471185,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Aug,2016,242968,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Sep,2016,527913,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Oct,2016,790053,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Nov,2016,588138,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Switzerland,a00i000000cw2wxAAA,Dec,2016,533211,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Jan,2016,1319983,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Feb,2016,1644365,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Mar,2016,1918218,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Apr,2016,1703293,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,May,2016,1834493,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Jun,2016,1978745,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Jul,2016,1595694,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Aug,2016,1646201,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Sep,2016,1906302,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Oct,2016,2027535,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Nov,2016,1753880,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Denmark,a00i000000GIJl9AAH,Dec,2016,1613493,USD,Cartesis,Q3RF 2016,Xaxis,Market
+Sweden,a00i000000GIJlIAAX,Jan,2016,173146.8,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Feb,2016,247589.4,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Mar,2016,200097.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Apr,2016,482876.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,May,2016,21644.27,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Jun,2016,196844.1,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Jul,2016,455382.9,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Aug,2016,202635.2,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Sep,2016,140243.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Oct,2016,54612.89,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Nov,2016,229910,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Sweden,a00i000000GIJlIAAX,Dec,2016,210978.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Jan,2016,68545.23,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Feb,2016,115017,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Mar,2016,85017.5,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Apr,2016,148497,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,May,2016,136741.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Jun,2016,87634.89,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Jul,2016,87004.32,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Aug,2016,117106,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Sep,2016,91619.09,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Oct,2016,175925,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Nov,2016,210676.7,USD,Cartesis,Q3RF 2016,Light Reaction,Market
+Turkey,a00i000000GIJlJAAX,Dec,2016,278478.6,USD,Cartesis,Q3RF 2016,Light Reaction,Market
